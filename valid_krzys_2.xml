@@ -1,0 +1,38 @@
+<tramwaje>
+    <tram>
+        <numer typ="dwukierunkowy" linia="9">105Na</numer>
+        <czas godziny="05:00-23:30" dni="robocze">Częsty kurs</czas>
+        <kolor dominujący="czerwony" pasek="biały">Czerwony z białym pasem</kolor>
+        <cecha stan="sprawny" napęd="elektryczny">Klasyczny model wysokopodłogowy</cecha>
+    </tram>
+    <tram>
+        <numer typ="jednokierunkowy" linia="3">Swing</numer>
+        <czas godziny="06:00-00:00" dni="weekend">Co 15 minut</czas>
+        <kolor dominujący="niebieski" pasek="żółty">Niebiesko-żółty</kolor>
+        <cecha stan="sprawny" napęd="elektryczny">Nowoczesny, niskopodłogowy</cecha>
+    </tram>
+    <tram>
+        <numer typ="dwukierunkowy" linia="11">Škoda 16T</numer>
+        <czas godziny="04:30-23:00" dni="robocze">Co 10 minut</czas>
+        <kolor dominujący="zielony" pasek="srebrny">Zielony z elementami srebra</kolor>
+        <cecha stan="sprawny" napęd="elektryczny">Cichy i energooszczędny</cecha>
+    </tram>
+    <tram>
+        <numer typ="jednokierunkowy" linia="7">Moderus Beta</numer>
+        <czas godziny="05:00-22:45" dni="robocze">Co 12 minut</czas>
+        <kolor dominujący="żółty" pasek="czarny">Żółty z czarnym pasem</kolor>
+        <cecha stan="sprawny" napęd="elektryczny">Modernizowany model z Poznania</cecha>
+    </tram>
+    <tram>
+        <numer typ="dwukierunkowy" linia="2">Tramino</numer>
+        <czas godziny="05:30-23:00" dni="robocze">Co 10 minut</czas>
+        <kolor dominujący="zielony" pasek="biały">Zielony z białym detalem</kolor>
+        <cecha stan="sprawny" napęd="elektryczny">Nowoczesny, klimatyzowany</cecha>
+    </tram>
+    <tram>
+        <numer typ="jednokierunkowy" linia="15">Jazz Duo</numer>
+        <czas godziny="04:45-23:45" dni="robocze">Co 8 minut</czas>
+        <kolor dominujący="czerwony" pasek="szary">Czerwony z szarymi detalami</kolor>
+        <cecha stan="sprawny" napęd="elektryczny">Cichy i energooszczędny</cecha>
+    </tram>
+</tramwaje>

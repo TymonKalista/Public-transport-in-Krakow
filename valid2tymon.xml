@@ -1,0 +1,6 @@
+<transport_in_Krk>
+    <transport1 quality="good" speed="fine">Bus</transport1>
+    <transport2 quality="great" speed="great">Bus</transport2>
+    <transport2 quality="great" speed="amazing">Train</transport2>
+    <transport2 quality="bad" speed="Bad">On Foot</transport2>
+</transport_in_Krk>
