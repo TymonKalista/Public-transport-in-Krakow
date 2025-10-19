@@ -1,7 +1,10 @@
 {
-    "tramwaj":"18",
+    "tramwaj":18,
     "stan":"nowy",
-    "przejechane kilometry":"205.51",
-    "działa":"true",
-    "dni tygodnia kiedy kursuje":["Sobota","Niedziela"]
+    "przejechane kilometry":205.51,
+    "działa":true,
+    "dni tygodnia kiedy kursuje":["Sobota","Niedziela"],
+    "Rok_produkcji":2020,
+    "Klimatyzacja":false,
+    "ilość siedzeń":50
 }
