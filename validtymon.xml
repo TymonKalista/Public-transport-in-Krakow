@@ -1,0 +1,42 @@
+<Tramwaje>
+
+    <Tramwaj22>
+        <time>22 min</time>
+        <comfort>good</comfort>
+        <cleanness>fine</cleanness>
+        <people>normal</people>
+    </Tramwaj22>
+
+    <Tramwaj8></Tramwaj8>
+        <time>40 min</time>
+        <comfort>decent</comfort>
+        <cleanness>great</cleanness>
+        <people>normal</people>
+
+    <Tramwaj10></Tramwaj10>
+        <time>42 min</time>
+        <comfort>ok</comfort>
+        <cleanness>great</cleanness>
+        <people>weird</people>
+
+    <Tramwaj01></Tramwaj01>
+        <time>42 min</time>
+        <comfort>ok</comfort>
+        <cleanness>great</cleanness>
+        <people>weird</people>
+
+    <Tramwaj13>
+        <time>30 min</time>
+        <comfort>so so</comfort>
+        <cleanness>great</cleanness>
+        <people>alcoholics</people>
+    </Tramwaj13>
+
+    <Tramwaj11>
+        <time>21 min</time>
+        <comfort>glamorous</comfort>
+        <cleanness>deecent</cleanness>
+        <people>weird</people>
+    </Tramwaj11>
+
+</Tramwaje>
