@@ -1,0 +1,44 @@
+[
+    {
+        "numer": 1,
+        "czas_odjazdu": "05:00",
+        "czas_przyjazdu": "05:45",
+        "stacja_poczatkowa": "Kraków Główny",
+        "stacja_koncowa": "Nowa Huta"
+    }
+    {
+        "numer": 2,
+        "czas_odjazdu": "06:00",
+        "czas_przyjazdu": "06:50",
+        "stacja_poczatkowa": "Kraków Główny",
+        "stacja_koncowa": "Bieżanów"
+    }
+    {
+        "numer": 3,
+        "czas_odjazdu": "07:00",
+        "czas_przyjazdu": "07:40",
+        "stacja_poczatkowa": "Kraków Główny",
+        "stacja_koncowa": "Wieliczka"
+    }
+    {
+        "numer": 4,
+        "czas_odjazdu": "08:00",
+        "czas_przyjazdu": "08:55",
+        "stacja_poczatkowa": "Kraków Główny",
+        "stacja_koncowa": "Skawina"
+    }
+    {
+        "numer": 5,
+        "czas_odjazdu": "09:00",
+        "czas_przyjazdu": "09:35",
+        "stacja_poczatkowa": "Kraków Główny",
+        "stacja_koncowa": "Tarnów"
+    }
+    {
+        "numer": 6,
+        "czas_odjazdu": "10:00",
+        "czas_przyjazdu": "10:45",
+        "stacja_poczatkowa": "Kraków Główny",
+        "stacja_koncowa": "Oświęcim"
+    }
+]
