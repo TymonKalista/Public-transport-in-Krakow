@@ -1,0 +1,40 @@
+<xml>
+
+    <tramwaj>
+        <numer>15</numer>
+        <czas>15min</czas>
+        <kolor>czerwony</kolor>
+        <cecha>graffiti</cecha>
+    </tramwaj>
+
+    <tramwaj>
+        <numer>5</numer>
+        <czas>15min</czas>
+        <kolor>czerwony</kolor>
+        <cechy>graffiti</cechy>
+    </tramwaj>
+    <tramwaj>
+        <numer>8</numer>
+        <czas>15min</czas>
+        <kolor>czerwony</kolor>
+        <cechy>graffiti</cechy>
+    </tramwaj>
+    <tramwaj>
+        <numer>7</numer>
+        <czas>15min</czas>
+        <kolor>czerwony</kolor>
+        <cechy>graffiti</cechy>
+    </tramwaj>
+    <tramwaj>
+        <numer>22</numer>
+        <czas>18min</czas>
+        <kolor>niebieski</kolor>
+        <cecha>wygodny</cecha>
+    </tramwaj>
+    <tramwaj>
+        <numer>23</numer>
+        <czas>20min</czas>
+        <kolor>zielony</kolor>
+        <cechy>wygodny</cechy>
+    </tramwaj>
+</xml>
