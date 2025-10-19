@@ -6,7 +6,10 @@
         "cena": 89.999,
         "odjazd": "7:30",
         "przyjazd": "8:30",
-        "stacja docelowwa": "Kraków Główny",
-        "cecha": "wifi"
+        "stacja docelowa": "Kraków Główny",
+        "cecha": {
+            "cecha1": "wifi",
+            "cecha2": "gniazdka"
+        }
     }
 ]
