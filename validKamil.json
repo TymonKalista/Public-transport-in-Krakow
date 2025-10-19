@@ -7,7 +7,7 @@
     "Rok_produkcji":2020,
     "Klimatyzacja":false,
     "ilość siedzeń":50,
-    "cecha:" {
+    "cecha": {
         "coś":"coś"
        }
 }

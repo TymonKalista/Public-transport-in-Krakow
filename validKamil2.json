@@ -1,0 +1,44 @@
+[
+    {
+    "Tramwaj": 18,
+    "Długość trasy": 9.87,
+    "Klimatyzacja": false,
+    "stan": "nowy",
+    "Kierunek":"UEk"
+    },
+    {
+    "Tramwaj": 20,
+    "Długość trasy": 10.87,
+    "Klimatyzacja": true,
+    "stan": "stary",
+    "Kierunek":"UEk"
+    },
+    {
+    "Tramwaj": 1,
+    "Długość trasy": 7.87,
+    "Klimatyzacja": false,
+    "stan": "stary",
+    "Kierunek":"Stary Rynek"
+    },
+    {
+    "Tramwaj": 8,
+    "Długość trasy": 9.87,
+    "Klimatyzacja": false,
+    "stan": "nowy",
+    "Kierunek":"UEk"
+    },
+    {
+    "Tramwaj": 9,
+    "Długość trasy": 6.87,
+    "Klimatyzacja": true,
+    "stan": "stary",
+    "Kierunek":"UEk"
+    },
+    {
+    "Tramwaj": 19,
+    "Długość trasy": 11.87,
+    "Klimatyzacja": false,
+    "stan": "stary",
+    "Kierunek":"Kraków Główny"
+    }
+]
