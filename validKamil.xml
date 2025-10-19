@@ -5,5 +5,34 @@
         <co_ile_kursuje>20min</co_ile_kursuje>
         <kierunek>Górka Narodowa</kierunek>
     </tramwaj18>
-
+    <tramwaj20>
+        <numer>20</numer>
+        <stan>nowy</stan>
+        <co_ile_kursuje>30min</co_ile_kursuje>
+        <kierunek>Górka Narodowa</kierunek>
+    </tramwaj20>
+    <tramwaj1>
+        <numer>1</numer>
+        <stan>stary</stan>
+        <co_ile_kursuje>20min</co_ile_kursuje>
+        <kierunek>Salwadore</kierunek>
+    </tramwaj1>
+    <tramwaj8>
+        <numer>8</numer>
+        <stan>nowy</stan>
+        <co_ile_kursuje>20min</co_ile_kursuje>
+        <kierunek>UEK</kierunek>
+    </tramwaj8>
+    <tramwaj15>
+        <numer>15</numer>
+        <stan>stary</stan>
+        <co_ile_kursuje>15min</co_ile_kursuje>
+        <kierunek>Stare Miasto</kierunek>
+    </tramwaj15>
+    <tramwaj38>
+        <numer>38</numer>
+        <stan>nowy</stan>
+        <co_ile_kursuje>30min</co_ile_kursuje>
+        <kierunek>UEK</kierunek>
+    </tramwaj38>
 </tramwaje>
