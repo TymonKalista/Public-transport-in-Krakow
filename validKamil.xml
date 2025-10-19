@@ -1,0 +1,9 @@
+<tramwaje>
+    <tramwaj18>
+        <numer>18</numer>
+        <stan>nowy</stan>
+        <co_ile_kursuje>20min</co_ile_kursuje>
+        <kierunek>Górka Narodowa</kierunek>
+    </tramwaj18>
+
+</tramwaje>
