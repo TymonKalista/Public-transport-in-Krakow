@@ -1,38 +1,38 @@
 <tramwaje>
     <tramwaj18>
-        <numer>18</numer>
-        <stan>nowy</stan>
-        <co_ile_kursuje>20min</co_ile_kursuje>
-        <kierunek>Górka Narodowa</kierunek>
+        <numer rok_nadania="2023" stary_numer="20">18</numer>
+        <stan rok_produkcji="2020" lat_w_służbie="5">nowy</stan>
+        <co_ile_kursuje od="10:00" do="22:00">20min</co_ile_kursuje>
+        <kierunek miasto="Kraków" kraj="Polska">Górka Narodowa</kierunek>
     </tramwaj18>
     <tramwaj20>
-        <numer>20</numer>
-        <stan>nowy</stan>
-        <co_ile_kursuje>30min</co_ile_kursuje>
-        <kierunek>Górka Narodowa</kierunek>
+        <numer rok_nadania="2023" stary_numer="19">20</numer>
+        <stan rok_produkcji="2020" lat_w_służbie="5">nowy</stan>
+        <co_ile_kursuje od="10:00" do="22:00">30min</co_ile_kursuje>
+        <kierunek miasto="Kraków" kraj="Polska">Górka Narodowa</kierunek>
     </tramwaj20>
     <tramwaj1>
-        <numer>1</numer>
-        <stan>stary</stan>
-        <co_ile_kursuje>20min</co_ile_kursuje>
-        <kierunek>Salwadore</kierunek>
+        <numer rok_nadania="2021" stary_numer="2">1</numer>
+        <stan rok_produkcji="2010" lat_w_służbie="15">stary</stan>
+        <co_ile_kursuje od="10:00" do="22:00">20min</co_ile_kursuje>
+        <kierunek miasto="Kraków" kraj="Polska">Salwadore</kierunek>
     </tramwaj1>
     <tramwaj8>
-        <numer>8</numer>
-        <stan>nowy</stan>
-        <co_ile_kursuje>20min</co_ile_kursuje>
-        <kierunek>UEK</kierunek>
+        <numer rok_nadania="2022" stary_numer="10">8</numer>
+        <stan rok_produkcji="2020" lat_w_służbie="5">nowy</stan>
+        <co_ile_kursuje od="10:00" do="22:00">20min</co_ile_kursuje>
+        <kierunek miasto="Kraków" kraj="Polska">UEK</kierunek>
     </tramwaj8>
     <tramwaj15>
-        <numer>15</numer>
-        <stan>stary</stan>
-        <co_ile_kursuje>15min</co_ile_kursuje>
-        <kierunek>Stare Miasto</kierunek>
+        <numer rok_nadania="2011" stary_numer="50">15</numer>
+        <stan rok_produkcji="2010" lat_w_służbie="15">stary</stan>
+        <co_ile_kursuje od="10:00" do="22:00">15min</co_ile_kursuje>
+        <kierunek miasto="Kraków" kraj="Polska">Stare Miasto</kierunek>
     </tramwaj15>
     <tramwaj38>
-        <numer>38</numer>
-        <stan>nowy</stan>
-        <co_ile_kursuje>30min</co_ile_kursuje>
-        <kierunek>UEK</kierunek>
+        <numer rok_nadania="2020" stary_numer="none">38</numer>
+        <stan rok_produkcji="2020" lat_w_służbie="5">nowy</stan>
+        <co_ile_kursuje od="10:00" do="22:00">30min</co_ile_kursuje>
+        <kierunek miasto="Kraków" kraj="Polska">UEK</kierunek>
     </tramwaj38>
 </tramwaje>
