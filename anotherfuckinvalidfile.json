@@ -1,0 +1,44 @@
+{
+    {
+        "number": 8,
+        "is_it_good": true,
+        "time": "44 min",
+        "avg. spd in miles per hour": 30.5,
+        "number of stations": 20
+    },
+    {
+        "number": 3,
+        "is_it_good": true,
+        "time": "77 min",
+        "avg. spd in miles per hour": 30.5,
+        "number of stations": 20
+    },
+    {
+        "number": 52,
+        "is_it_good": false,
+        "time": "80 min",
+        "avg. spd in miles per hour": 30.5,
+        "number of stations": 20
+    },
+    {
+        "number": 50,
+        "is_it_good": true,
+        "time": "67 min",
+        "avg. spd in miles per hour": 30.5,
+        "number of stations": 24
+    },
+    {
+        "number": 11,
+        "is_it_good": true,
+        "time": "40 min",
+        "avg. spd in miles per hour": 30.5,
+        "number of stations": 18
+    },
+    {
+        "number": 7,
+        "is_it_good": false,
+        "time": "30 min",
+        "avg. spd in miles per hour": 30.5,
+        "number of stations": 12
+    }
+}
