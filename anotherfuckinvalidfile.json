@@ -1,4 +1,4 @@
-{
+[
     {
         "number": 8,
         "is_it_good": true,
@@ -41,4 +41,4 @@
         "avg. spd in miles per hour": 30.5,
         "number of stations": 12
     }
-}
+]
