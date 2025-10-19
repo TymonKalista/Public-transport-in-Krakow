@@ -1,0 +1,12 @@
+[
+    {
+        "numer": 1,
+        "weekendy": false,
+        "kolor": ["czerwony", "biały"],
+        "cena": 89.999,
+        "odjazd": "7:30",
+        "przyjazd": "8:30",
+        "stacja docelowwa": "Kraków Główny",
+        "cecha": "wifi"
+    }
+]
