@@ -14,3 +14,5 @@ paragraf3
 |3|Nowy|30min|Biało-niebieski|
 
 # 3
+![img1]()
+![img2]()
