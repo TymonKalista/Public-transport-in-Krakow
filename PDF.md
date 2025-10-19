@@ -61,6 +61,7 @@ data types: str, int, float, bool, [], {}.
 Each item in the list should contain 5 key-value pairs of data. The data in the file 
 should refer to the topic. 
 6. Add in the README.md file: 
+
 a. INTRODUCTION section with 3 paragraphs. Each paragraph should contain at 
 least 50 words and refer to the topic.
 
